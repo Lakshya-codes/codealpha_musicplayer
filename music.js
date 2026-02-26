@@ -12,43 +12,43 @@ const songs = [
     {
         name: "Thinking Of You - AP Dhillon",
         file:  "Thinking Of You.mp3",
-        img: "cd6.webp",
+        img: "cd6.jpg",
     },  
 
     {
         name:  "Dooron Dooron - Paresh Pahuja",
         file:  "Dooron Dooron.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Charmer - Diljit Dosanjh",
         file:  "Charmer.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Ikko Mikke - Satindar Sartaj",
         file:  "Ikko Mikke.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Moonlight - Harnoor",
         file:  "Moonlight.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Boyfriend - Karan Aujla",
         file:  "Boyfriend.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Aa Ja Diljaaniya - Amrinder Gill",
         file:  "https://soundcloud.com/hustinder-423562794/aa-ja-diljaaniya?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
     {
         name:  "Tera Hone Laga Hoon",
         file:  "Tera Hone Laga Hoon.mp3",
-        img: "cd6.webp"
+        img: "cd6.jpg"
     },
 ];
 const audio = new Audio();
@@ -98,3 +98,4 @@ window.onload = function(){
     this.document.querySelector("form").reset();
 
 }
+
